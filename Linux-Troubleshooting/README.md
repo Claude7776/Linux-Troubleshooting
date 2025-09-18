@@ -13,6 +13,7 @@ Linux-Troubleshooting/
     └─ Zorin_to_Mint/
 
 ## Commandes principales
+```bash
 - sudo fsck -f /dev/sdaX
 - sudo update-initramfs -u -k all
 - sudo update-grub
@@ -20,3 +21,4 @@ Linux-Troubleshooting/
 - sudo systemctl restart dbus
 - cp -r /home/claude/* /mnt/usb/
 - sudo apt update && sudo apt upgrade -y
+```
