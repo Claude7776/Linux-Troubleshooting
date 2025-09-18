@@ -40,44 +40,44 @@ Il documente mes expériences pratiques en administration Linux sur des environn
 ## 🔹 Actions entreprises et commandes
 
 ### Vérification système de fichiers
-\`\`\`bash
+```bash
 sudo fsck -f /dev/sda1
 sudo fsck -f /dev/sda2
-\`\`\`
+```
 
 ### Gestion D-Bus et services
-\`\`\`bash
+```bash
 sudo systemctl status dbus
 sudo systemctl restart dbus
 sudo journalctl -xe | grep dbus
 sudo systemctl status gdm
 sudo systemctl restart gdm
-\`\`\`
+```
 
 ### Regénération initramfs et GRUB
-\`\`\`bash
+```bash
 sudo update-initramfs -u -k all
 sudo update-grub
 sudo reboot
-\`\`\`
+```
 
 ### Redémarrage interface graphique
-\`\`\`bash
+```bash
 sudo systemctl start gdm
 sudo systemctl status gdm
-\`\`\`
+```
 
 ### Sauvegarde fichiers utilisateur
-\`\`\`bash
+```bash
 sudo mount /dev/sdb1 /mnt/usb
 cp -r /home/claude/* /mnt/usb/
 sudo umount /mnt/usb
-\`\`\`
+```
 
 ### Migration OS Zorin → Mint
-\`\`\`bash
+```bash
 sudo apt update && sudo apt upgrade -y
-\`\`\`
+```
 
 ---
 
