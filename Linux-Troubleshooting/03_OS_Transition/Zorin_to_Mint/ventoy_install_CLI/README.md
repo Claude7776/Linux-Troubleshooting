@@ -30,7 +30,7 @@ Sauvegarde tes données avant l’installation.
 
 ## 🔹 Copier les ISO
 
-**Une fois Ventoy installé, une partition Ventoy apparaît.
+Une fois Ventoy installé, une partition Ventoy apparaît.
 Il suffit d’y copier directement les fichiers ISO :
 
 ```bash
