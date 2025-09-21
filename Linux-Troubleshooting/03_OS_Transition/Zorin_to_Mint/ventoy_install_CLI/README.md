@@ -25,7 +25,7 @@ cd ventoy-x.x.xx
 ```
 ---
 
-**⚠️ Attention : cette opération formate entièrement la clé USB.
+⚠️ Attention : cette opération formate entièrement la clé USB.
 Sauvegarde tes données avant l’installation.
 
 ## 🔹 Copier les ISO
