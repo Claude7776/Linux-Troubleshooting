@@ -16,13 +16,15 @@ Il suffit de copier les fichiers ISO (Linux, Windows, etc.) sur la clé, **sans 
    Exemple via terminal :  
    ```bash
    wget https://github.com/ventoy/Ventoy/releases/download/v1.0.xx/ventoy-x.x.xx-linux.tar.gz
-```
+   
 2. **Extraire l'archive
 
 ```bash
 tar -xvf ventoy-x.x.xx-linux.tar.gz
 cd ventoy-x.x.xx
 ```
+---
+
 **⚠️ Attention : cette opération formate entièrement la clé USB.
 Sauvegarde tes données avant l’installation.
 
