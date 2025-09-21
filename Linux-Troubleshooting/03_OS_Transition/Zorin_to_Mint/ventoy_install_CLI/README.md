@@ -17,7 +17,7 @@ Il suffit de copier les fichiers ISO (Linux, Windows, etc.) sur la clé, **sans 
    ```bash
    wget https://github.com/ventoy/Ventoy/releases/download/v1.0.xx/ventoy-x.x.xx-linux.tar.gz
    
-2. **Extraire l'archive
+2. **Extraire l'archive**
 
 ```bash
 tar -xvf ventoy-x.x.xx-linux.tar.gz
@@ -40,20 +40,20 @@ cp ~/Téléchargements/ubuntu.iso /media/$USER/Ventoy/
 ```
 ## 🔹 Booter sur Ventoy
 
-1. **Redémarrer le PC et booter sur la clé USB.
+1. **Redémarrer le PC et booter sur la clé USB.**
 
-2. **Ventoy affiche un menu listant toutes les ISO présentes.
+2. **Ventoy affiche un menu listant toutes les ISO présentes.**
 
-3. **Sélectionner l’ISO souhaitée → installation immédiate de l’OS.
+3. **Sélectionner l’ISO souhaitée → installation immédiate de l’OS.**
 
 ## 🔹 Exemple pratique
 
-**✔️ Installation réussie de Linux Mint via Ventoy → OS fonctionnel et prêt à l’emploi.
+**✔️ Installation réussie de Linux Mint via Ventoy → OS fonctionnel et prêt à l’emploi.**
 
 ## ✅ Avantages de Ventoy super Pratique pour du Multiboot
 
-1. **Support multiboot (plusieurs ISO sur une seule clé)
+1. **Support multiboot (plusieurs ISO sur une seule clé)**
 
-2. **Plus besoin de reformater la clé à chaque fois
+2. **Plus besoin de reformater la clé à chaque fois**
 
-3. **Compatible Linux, Windows, BSD, etc.
+3. **Compatible Linux, Windows, BSD, etc.**
