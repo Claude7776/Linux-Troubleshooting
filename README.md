@@ -6,7 +6,7 @@
 
 > 💻 Ce dépôt est créé et maintenu depuis un terminal Termux sur Android, pour expérimenter et documenter mes compétences Linux et DevOps.
 
-Il documente mes expériences pratiques en administration Linux sur des environnements **Zorin OS** et **Linux Mint**, avec un focus sur le dépannage système, le boot, **D-Bus**, **initramfs**, et la sauvegarde de données.
+Il documente mes expériences pratiques en administration Linux sur des environnements **Zorin OS** et **Linux Mint**, avec un focus sur le dépannage système, le boot, **D-Bus**, **initramfs**,**internet en mode CLI** et la sauvegarde de données.
 
 ---
 
