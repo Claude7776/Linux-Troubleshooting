@@ -22,18 +22,22 @@ Il documente mes expériences pratiques en administration Linux sur des environn
 
 ---
 
-## 🔹 Contexte
+## 🔹 Contexte  
 - **Machine** : Lenovo T420  
 - **OS** : Zorin OS 16 → Linux Mint  
-- **Mode de travail** : TTY / shell (init 3)  
+- **Mode de travail** : TTY / shell (init 3, sans interface graphique)  
+- **Connexion réseau** : Hotspot Android en CLI (édition de `/etc/resolv.conf`)  
+- **Collaboration** : Partage de terminal avec **tty-share**  
+- **Déploiement OS** : Installation via **Ventoy CLI** + clé USB OTG  
 
 ---
 
-## 🔹 Problème rencontré
+## 🔹 Problème rencontré  
 - Écran noir au boot  
 - Service D-Bus bloqué  
 - Initramfs corrompu  
 - Sauvegarde nécessaire avant réinstallation  
+- Besoin de connexion réseau sans NetworkManager (hotspot Android)
 
 ---
 
