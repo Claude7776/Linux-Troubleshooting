@@ -107,7 +107,8 @@ sudo apt update && sudo apt upgrade -y
 - Gestion boot Linux  
 - Services D-Bus  
 - Initramfs / GRUB  
-- Sauvegarde via shell  
+- Sauvegarde via shell
+- Connection WIFI mode CLI  
 - Migration OS  
 
 ---
